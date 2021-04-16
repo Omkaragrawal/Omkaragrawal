@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=omkaragrawal.omkaragrawal)
+<p align="center">
+   
+![count](https://visitor-badge.glitch.me/badge?page_id=omkaragrawal.omkaragrawal)
+
+</p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
