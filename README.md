@@ -3,6 +3,10 @@
 - 😄 Pronouns: He / Him
 <!--
 **Omkaragrawal/Omkaragrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/anuraghazra/github-readme-stats
+<p align="center">
+   [![OMKAR AGRAWAL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omkaragrawal)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 Here are some ideas to get you started:
 
@@ -25,4 +29,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkaragrawal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omkaragrawal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=omkaragrawal&theme=dracula&margin-w=15&no-frame=true" />
 </p>
