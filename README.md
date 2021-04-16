@@ -8,6 +8,10 @@ https://github.com/anuraghazra/github-readme-stats
    [![OMKAR AGRAWAL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omkaragrawal)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/omkaragrawal/count.svg" alt="Visitor Count" />
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,7 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=omkaragrawal.omkaragrawal)
 
