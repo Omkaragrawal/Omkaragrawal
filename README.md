@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2>नमस्ते (Namaste)🙏🏻, I'm OMKAR AGRAWAL!</h2>
+
 - 📫 How to reach me: https://omkaragrawal.dev
 - 😄 Pronouns: He / Him
 <!--
