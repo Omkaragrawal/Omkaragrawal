@@ -40,5 +40,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+<a href="http://www.github.com/Omkaragrawal" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkaragrawal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
+
+<p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=omkaragrawal&theme=dracula&margin-w=15&no-frame=true" />
 </p>
