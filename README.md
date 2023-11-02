@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
    
-![count](https://visitor-badge.glitch.me/badge?page_id=omkaragrawal.omkaragrawal)
+![Visitor's count](https://visitor-badge.glitch.me/badge?page_id=omkaragrawal.visitor-badge)
 
 </p>
 
