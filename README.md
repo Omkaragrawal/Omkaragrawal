@@ -23,12 +23,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
    
 ![Visitor's count](https://visitor-badge.glitch.me/badge?page_id=omkaragrawal.visitor-badge)
 
-</p>
+</p> -->
 
+<p align="center">
+
+![Temp Data](https://count.getloli.com/@omkaragrawal?theme=minecraft&padding=7&offset=5&align=center&scale=1.0&pixelated=1&darkmode=auto)
+
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -39,10 +44,24 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="http://www.github.com/Omkaragrawal" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkaragrawal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p>
+</p> -->
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=omkaragrawal&theme=dracula&margin-w=15&no-frame=true" />
+
+![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=Omkaragrawal&bg_color=000000&color=d48516&line=ffffff&point=ffffff&area_color=05eb87&area=true&hide_border=true)
+
 </p>
+
+
+<p align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Omkaragrawal&layout=donut-vertical&langs_count=9&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Omkaragrawal&layout=donut-vertical&langs_count=9&hide_values=true&theme=dracula)
+
+</p>
+
+
+<!-- <p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=omkaragrawal&theme=dracula&margin-w=15&no-frame=true" />
+</p> -->
